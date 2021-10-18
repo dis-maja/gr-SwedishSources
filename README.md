@@ -1,2 +1,2 @@
 # gr-SwedishSources
-gramps addon Swedish Sources
+gramps addon - add a Swedish Sources
